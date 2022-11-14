@@ -11,7 +11,7 @@ body{
 }
 
 .my-jumbo{
-    height: 67vh;
+    height: 75vh;
 }
 
 .my-jumbo-img{
@@ -30,6 +30,10 @@ body{
 }
 
 .my-card img{
+    width: 100%;
+}
+
+.my-card-ps-section img{
     width: 100%;
 }
 
@@ -52,4 +56,11 @@ body{
 
 .img-ps img{
     width: 100%;
+}
+
+
+@media screen and (min-width: 768px){
+    .my-card-ps-section img{
+        width: 60%;
+    }
 }
