@@ -5,3 +5,18 @@ body{
 .my-logo{
     width: 100px;
 }
+
+.my-logo-jumbo{
+    width: 300px;
+}
+
+.my-jumbo{
+    height: 63vh;
+}
+
+.my-jumbo-img{
+    background-image: url(../img/jumbo-bg.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
