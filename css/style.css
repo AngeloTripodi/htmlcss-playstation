@@ -10,6 +10,10 @@ body{
     width: 55%;
 }
 
+.my-logo-psplus{
+    width: 340px;
+}
+
 .my-jumbo{
     height: 75vh;
 }
@@ -47,7 +51,7 @@ body{
 }
 
 .ps-blue{
-    color: #197fd2;
+    color:  #2d64e6;
     
 }
 
@@ -59,8 +63,16 @@ body{
     background-color: #2d64e6;
 }
 
+.bg-grey{
+    background-color: #d9dadc;
+}
+
 .bg-black-grey{
     background-color: #1f1f1f;
+}
+
+.bg-sand{
+    background-color: #bebcbb;
 }
 
 .img-ps img{
