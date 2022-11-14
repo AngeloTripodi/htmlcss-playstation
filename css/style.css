@@ -32,3 +32,24 @@ body{
 .my-card img{
     width: 100%;
 }
+
+.my-mb{
+    margin-bottom: 8rem;
+}
+
+.ps-blue{
+    color: #197fd2;
+    
+}
+
+.ps-grey{
+    color: #7f7f7f;
+}
+
+.bg-ps-blue{
+    background-color: #2d64e6;
+}
+
+.img-ps img{
+    width: 100%;
+}
