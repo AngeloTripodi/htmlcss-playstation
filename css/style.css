@@ -63,8 +63,26 @@ body{
     color: #7f7f7f;
 }
 
+.my-bg-white{
+    background-color: white;
+}
+
 .bg-ps-blue{
     background-color: #2d64e6;
+}
+
+.hov-b:hover{
+    background-color: #0035af;
+}
+
+.hov-g:hover{
+    background-color: #aeafb3;
+    color: #2d64e6;
+}
+
+.hov-w:hover{
+    background-color: rgb(200, 200, 200);
+    color: #2d64e6;
 }
 
 .bg-ps-now{
