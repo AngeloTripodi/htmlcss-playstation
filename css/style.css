@@ -87,10 +87,17 @@ body{
     border-bottom: 3px solid #2d64e6;
 }
 
+/* !RESPONSIVE */
 
 @media screen and (min-width: 768px){
     .my-card-ps-section img{
         width: 60%;
         padding-bottom: 1.5rem;
+    }
+}
+
+@media screen and (min-width:992px){
+    .my-toggle-size{
+        width: 50%;
     }
 }
