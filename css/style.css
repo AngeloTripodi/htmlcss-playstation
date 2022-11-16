@@ -113,6 +113,10 @@ body{
     border-bottom: 3px solid #2d64e6;
 }
 
+section#console-ps5 div.col-4:hover {
+    border-bottom: 3px solid #2d64e6;
+}
+
 .active-game{
     border: 3px solid #2d64e6;
 }
@@ -127,7 +131,6 @@ section#cards .my-card img:hover{
 @media screen and (min-width: 768px){
     .my-card-ps-section img{
         width: 60%;
-        padding-bottom: 1.5rem;
     }
 }
 
